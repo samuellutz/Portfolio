@@ -6,6 +6,7 @@ body {
     font-weight: 200;
     font-size: 1.5rem;
     color: #444;
+    background: lightgray;
 }
 .introleft{
 background: url(img/Screenshot\ 2022-01-15\ 130433.png);
@@ -43,4 +44,7 @@ color: ivory;
 section {
     margin: 5rem;
     font-size: 1.5rem;
+}
+h2 {
+    text-align: center;
 }
