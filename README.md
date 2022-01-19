@@ -16,7 +16,7 @@ An updated portfolio using new skills learned over the last month.
 * 
 ![portfolio](https://user-images.githubusercontent.com/91674571/150181145-35c99259-b198-4bfd-a2a8-bd1e1c11ebfa.gif)
 
-![portfolio](https://user-images.githubusercontent.com/91674571/150181221-942c1535-ae6d-4449-9d6f-7775c21f8457.gif)
+![Screenshot 2022-01-19 091745](https://user-images.githubusercontent.com/91674571/150182141-264588a3-27ad-4322-9b7a-4b81f77fcb7b.png)
 
 ![Screenshot 2022-01-19 091901](https://user-images.githubusercontent.com/91674571/150181462-e144d8d8-bece-4ef2-8fb0-0a7b4881c93b.png)
 
